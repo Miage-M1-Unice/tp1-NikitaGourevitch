@@ -70,8 +70,8 @@ public class Directory {
    public  void exerciceC(){
 
         String regex = ".*class";
-        String regexA = ".*\\$.*";
-        String regexB = ".*\\$[0-9]*\\.class";
+        String regexA = ".*$.*";
+        String regexB = ".*$[0-9]*.class";
 
         Pattern p = Pattern.compile(regex);
         Pattern pA = Pattern.compile(regexA);
