@@ -1,4 +1,4 @@
-package fr.miage.gourevitch;
+package fr.miage.gourevitch.tp1;
 
 import java.io.File;
 import java.io.FileNotFoundException;
